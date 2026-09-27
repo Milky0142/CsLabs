@@ -1,0 +1,15 @@
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\bin\Debug\net10.0\sem-1-lab-01-server-monitoring.exe
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\bin\Debug\net10.0\sem-1-lab-01-server-monitoring.deps.json
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\bin\Debug\net10.0\sem-1-lab-01-server-monitoring.runtimeconfig.json
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\bin\Debug\net10.0\sem-1-lab-01-server-monitoring.dll
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\bin\Debug\net10.0\sem-1-lab-01-server-monitoring.pdb
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\obj\Debug\net10.0\sem-1-lab-01-server-monitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\obj\Debug\net10.0\sem-1-lab-01-server-monitoring.AssemblyInfoInputs.cache
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\obj\Debug\net10.0\sem-1-lab-01-server-monitoring.AssemblyInfo.cs
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\obj\Debug\net10.0\sem-1-lab-01-server-monitoring.csproj.CoreCompileInputs.cache
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\obj\Debug\net10.0\sem-1-lab-01-server-monitoring.dll
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\obj\Debug\net10.0\refint\sem-1-lab-01-server-monitoring.dll
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\obj\Debug\net10.0\sem-1-lab-01-server-monitoring.pdb
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\obj\Debug\net10.0\sem-1-lab-01-server-monitoring.genruntimeconfig.cache
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\obj\Debug\net10.0\ref\sem-1-lab-01-server-monitoring.dll
+C:\StudentProjects\sem-1-lab-01-server-monitoring\sem-1-lab-01-server-monitoring\obj\Debug\net10.0\sem-1-la.E8578608.Up2Date
