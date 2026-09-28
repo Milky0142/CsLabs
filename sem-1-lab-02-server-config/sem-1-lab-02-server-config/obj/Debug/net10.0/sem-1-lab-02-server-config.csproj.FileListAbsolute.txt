@@ -1,0 +1,15 @@
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\bin\Debug\net10.0\sem-1-lab-02-server-config.exe
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\bin\Debug\net10.0\sem-1-lab-02-server-config.deps.json
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\bin\Debug\net10.0\sem-1-lab-02-server-config.runtimeconfig.json
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\bin\Debug\net10.0\sem-1-lab-02-server-config.dll
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\bin\Debug\net10.0\sem-1-lab-02-server-config.pdb
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\obj\Debug\net10.0\sem-1-lab-02-server-config.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\obj\Debug\net10.0\sem-1-lab-02-server-config.AssemblyInfoInputs.cache
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\obj\Debug\net10.0\sem-1-lab-02-server-config.AssemblyInfo.cs
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\obj\Debug\net10.0\sem-1-lab-02-server-config.csproj.CoreCompileInputs.cache
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\obj\Debug\net10.0\sem-1-lab-02-server-config.dll
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\obj\Debug\net10.0\refint\sem-1-lab-02-server-config.dll
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\obj\Debug\net10.0\sem-1-lab-02-server-config.pdb
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\obj\Debug\net10.0\sem-1-lab-02-server-config.genruntimeconfig.cache
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\obj\Debug\net10.0\ref\sem-1-lab-02-server-config.dll
+C:\StudentProjects\sem-1-lab-02-server-config\sem-1-lab-02-server-config\obj\Debug\net10.0\sem-1-la.0176F150.Up2Date
