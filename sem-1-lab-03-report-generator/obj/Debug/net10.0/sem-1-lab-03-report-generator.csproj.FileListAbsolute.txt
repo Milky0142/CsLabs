@@ -1,0 +1,15 @@
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\bin\Debug\net10.0\sem-1-lab-03-report-generator.exe
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\bin\Debug\net10.0\sem-1-lab-03-report-generator.deps.json
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\bin\Debug\net10.0\sem-1-lab-03-report-generator.runtimeconfig.json
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\bin\Debug\net10.0\sem-1-lab-03-report-generator.dll
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\bin\Debug\net10.0\sem-1-lab-03-report-generator.pdb
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\obj\Debug\net10.0\sem-1-lab-03-report-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\obj\Debug\net10.0\sem-1-lab-03-report-generator.AssemblyInfoInputs.cache
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\obj\Debug\net10.0\sem-1-lab-03-report-generator.AssemblyInfo.cs
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\obj\Debug\net10.0\sem-1-lab-03-report-generator.csproj.CoreCompileInputs.cache
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\obj\Debug\net10.0\sem-1-lab-03-report-generator.dll
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\obj\Debug\net10.0\refint\sem-1-lab-03-report-generator.dll
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\obj\Debug\net10.0\sem-1-lab-03-report-generator.pdb
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\obj\Debug\net10.0\sem-1-lab-03-report-generator.genruntimeconfig.cache
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\obj\Debug\net10.0\ref\sem-1-lab-03-report-generator.dll
+C:\StudentProjects\sem-1-lab-03-report-generator\sem-1-lab-03-report-generator\obj\Debug\net10.0\sem-1-la.32B4F533.Up2Date
